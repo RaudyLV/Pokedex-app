@@ -1,0 +1,29 @@
+.home {
+  width: 100%;
+}
+
+.home-header {
+  text-align: center;
+  margin-bottom: var(--spacing-2xl);
+}
+
+.home-header h2 {
+  font-size: var(--font-size-3xl);
+  color: var(--color-text);
+  margin-bottom: var(--spacing-sm);
+}
+
+.home-header p {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-light);
+}
+
+.load-more {
+  text-align: center;
+  margin: var(--spacing-2xl) 0;
+}
+
+.load-more .btn {
+  padding: var(--spacing-md) var(--spacing-2xl);
+  font-size: var(--font-size-lg);
+}
