@@ -21,18 +21,18 @@ Esta es una Pokédex interactiva construida con React que permite a los usuarios
 
 ### Página Principal
 ```
-![Home](./src/assets/Home.gif)
+![Home](./docs/Home.gif)
 ```
 
 ### Search
 ```
-![SearchBar](./src/assets/Search.gif)
+![SearchBar](./docs/Search.gif)
 
 ```
 
 ### Vista de Detalle
 ```
-![Detalle](./src/assets/Pokelist.gif)
+![Detalle](./docs/Pokelist.gif)
 ```
 
 ## 🚀 Tecnologías Utilizadas
